@@ -89,7 +89,6 @@ Flight_Fare_Trend_Tracker/
 ## ▶️ How to Run the Project
 
 ### Step 1: Clone the Repository
-```bash
 git clone https://github.com/prajyotpadol-dev/Flight_Fare_Trend_Tracker.git
 cd Flight_Fare_Trend_Tracker
 
