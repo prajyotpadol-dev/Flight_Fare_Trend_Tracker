@@ -1,0 +1,91 @@
+scrape_date,origin,destination,departure_date,airline,price
+2025-01-01,Mumbai,Delhi,2025-01-15,IndiGo,4536
+2025-01-02,Mumbai,Delhi,2025-01-16,SpiceJet,4194
+2025-01-03,Mumbai,Delhi,2025-01-17,Vistara,4503
+2025-01-04,Mumbai,Delhi,2025-01-18,Air India,5507
+2025-01-05,Mumbai,Delhi,2025-01-19,Akasa Air,5375
+2025-01-06,Mumbai,Delhi,2025-01-20,IndiGo,5904
+2025-01-07,Mumbai,Delhi,2025-01-21,IndiGo,4069
+2025-01-08,Mumbai,Delhi,2025-01-22,IndiGo,5406
+2025-01-09,Mumbai,Delhi,2025-01-23,Air India,5463
+2025-01-10,Mumbai,Delhi,2025-01-24,IndiGo,4602
+2025-01-11,Mumbai,Delhi,2025-01-25,IndiGo,5373
+2025-01-12,Mumbai,Delhi,2025-01-26,IndiGo,4072
+2025-01-13,Mumbai,Delhi,2025-01-27,IndiGo,5300
+2025-01-14,Mumbai,Delhi,2025-01-28,Air India,4493
+2025-01-15,Mumbai,Delhi,2025-01-29,Akasa Air,4496
+2025-01-16,Mumbai,Delhi,2025-01-30,IndiGo,4103
+2025-01-17,Mumbai,Delhi,2025-01-31,Vistara,4301
+2025-01-18,Mumbai,Delhi,2025-02-01,Air India,4502
+2025-01-19,Mumbai,Delhi,2025-02-02,Akasa Air,5124
+2025-01-20,Mumbai,Delhi,2025-02-03,Akasa Air,4115
+2025-01-21,Mumbai,Delhi,2025-02-04,Air India,5197
+2025-01-22,Mumbai,Delhi,2025-02-05,Air India,4704
+2025-01-23,Mumbai,Delhi,2025-02-06,Air India,5672
+2025-01-24,Mumbai,Delhi,2025-02-07,IndiGo,5997
+2025-01-25,Mumbai,Delhi,2025-02-08,Akasa Air,5942
+2025-01-26,Mumbai,Delhi,2025-02-09,IndiGo,4414
+2025-01-27,Mumbai,Delhi,2025-02-10,SpiceJet,5583
+2025-01-28,Mumbai,Delhi,2025-02-11,Akasa Air,5185
+2025-01-29,Mumbai,Delhi,2025-02-12,Air India,4253
+2025-01-30,Mumbai,Delhi,2025-02-13,Air India,5282
+2025-01-01,Bangalore,Hyderabad,2025-01-15,Akasa Air,5355
+2025-01-02,Bangalore,Hyderabad,2025-01-16,SpiceJet,5044
+2025-01-03,Bangalore,Hyderabad,2025-01-17,IndiGo,5437
+2025-01-04,Bangalore,Hyderabad,2025-01-18,SpiceJet,4891
+2025-01-05,Bangalore,Hyderabad,2025-01-19,Akasa Air,4122
+2025-01-06,Bangalore,Hyderabad,2025-01-20,Air India,4647
+2025-01-07,Bangalore,Hyderabad,2025-01-21,Akasa Air,4500
+2025-01-08,Bangalore,Hyderabad,2025-01-22,Air India,4305
+2025-01-09,Bangalore,Hyderabad,2025-01-23,SpiceJet,5113
+2025-01-10,Bangalore,Hyderabad,2025-01-24,Akasa Air,4979
+2025-01-11,Bangalore,Hyderabad,2025-01-25,IndiGo,5934
+2025-01-12,Bangalore,Hyderabad,2025-01-26,Air India,4980
+2025-01-13,Bangalore,Hyderabad,2025-01-27,SpiceJet,5065
+2025-01-14,Bangalore,Hyderabad,2025-01-28,IndiGo,4392
+2025-01-15,Bangalore,Hyderabad,2025-01-29,Akasa Air,4627
+2025-01-16,Bangalore,Hyderabad,2025-01-30,IndiGo,4505
+2025-01-17,Bangalore,Hyderabad,2025-01-31,Vistara,5773
+2025-01-18,Bangalore,Hyderabad,2025-02-01,Vistara,5319
+2025-01-19,Bangalore,Hyderabad,2025-02-02,Vistara,5317
+2025-01-20,Bangalore,Hyderabad,2025-02-03,Akasa Air,4984
+2025-01-21,Bangalore,Hyderabad,2025-02-04,Akasa Air,5305
+2025-01-22,Bangalore,Hyderabad,2025-02-05,Akasa Air,4537
+2025-01-23,Bangalore,Hyderabad,2025-02-06,SpiceJet,5409
+2025-01-24,Bangalore,Hyderabad,2025-02-07,IndiGo,5273
+2025-01-25,Bangalore,Hyderabad,2025-02-08,Akasa Air,4190
+2025-01-26,Bangalore,Hyderabad,2025-02-09,SpiceJet,5832
+2025-01-27,Bangalore,Hyderabad,2025-02-10,SpiceJet,4702
+2025-01-28,Bangalore,Hyderabad,2025-02-11,Akasa Air,5572
+2025-01-29,Bangalore,Hyderabad,2025-02-12,Vistara,5218
+2025-01-30,Bangalore,Hyderabad,2025-02-13,Akasa Air,4273
+2025-01-01,Pune,Bangalore,2025-01-15,IndiGo,5099
+2025-01-02,Pune,Bangalore,2025-01-16,Akasa Air,4846
+2025-01-03,Pune,Bangalore,2025-01-17,Air India,4244
+2025-01-04,Pune,Bangalore,2025-01-18,IndiGo,4836
+2025-01-05,Pune,Bangalore,2025-01-19,IndiGo,4116
+2025-01-06,Pune,Bangalore,2025-01-20,Vistara,4139
+2025-01-07,Pune,Bangalore,2025-01-21,Akasa Air,5201
+2025-01-08,Pune,Bangalore,2025-01-22,Vistara,5169
+2025-01-09,Pune,Bangalore,2025-01-23,Vistara,5293
+2025-01-10,Pune,Bangalore,2025-01-24,Vistara,4464
+2025-01-11,Pune,Bangalore,2025-01-25,SpiceJet,4568
+2025-01-12,Pune,Bangalore,2025-01-26,SpiceJet,5482
+2025-01-13,Pune,Bangalore,2025-01-27,Air India,5782
+2025-01-14,Pune,Bangalore,2025-01-28,Akasa Air,5866
+2025-01-15,Pune,Bangalore,2025-01-29,Akasa Air,5931
+2025-01-16,Pune,Bangalore,2025-01-30,Akasa Air,5527
+2025-01-17,Pune,Bangalore,2025-01-31,Akasa Air,4044
+2025-01-18,Pune,Bangalore,2025-02-01,Air India,4449
+2025-01-19,Pune,Bangalore,2025-02-02,SpiceJet,4180
+2025-01-20,Pune,Bangalore,2025-02-03,IndiGo,5602
+2025-01-21,Pune,Bangalore,2025-02-04,Air India,5040
+2025-01-22,Pune,Bangalore,2025-02-05,Akasa Air,4188
+2025-01-23,Pune,Bangalore,2025-02-06,IndiGo,4319
+2025-01-24,Pune,Bangalore,2025-02-07,IndiGo,4677
+2025-01-25,Pune,Bangalore,2025-02-08,Air India,5198
+2025-01-26,Pune,Bangalore,2025-02-09,Akasa Air,5070
+2025-01-27,Pune,Bangalore,2025-02-10,Air India,5252
+2025-01-28,Pune,Bangalore,2025-02-11,Air India,4944
+2025-01-29,Pune,Bangalore,2025-02-12,Air India,5068
+2025-01-30,Pune,Bangalore,2025-02-13,SpiceJet,4833
